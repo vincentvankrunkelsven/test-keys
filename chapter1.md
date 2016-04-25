@@ -4,7 +4,7 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:VideoExercise lang:r xp:50 skills:1 key:other_key
+--- type:VideoExercise lang:r xp:50 skills:1 key:yet_another_key
 ## yet another title
 
 *** =video_link
