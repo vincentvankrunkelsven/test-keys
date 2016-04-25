@@ -5,7 +5,7 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:VideoExercise lang:r xp:50 skills:1 key:other_key
-## other title
+## yet another title
 
 *** =video_link
 //player.vimeo.com/video/154783078
